@@ -1,0 +1,38 @@
+name: ArXiv LLM Papers Tracker
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+  workflow_dispatch:
+
+jobs:
+  track-papers:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install feedparser requests python-dateutil
+    
+
+    - name: Track new papers
+      run: python scripts/arxiv_tracker.py
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No new papers found"
+        else
+          git commit -m "🤖 Add new LLM papers from ArXiv $(date +%Y-%m-%d)"
+          git push
+        fi
