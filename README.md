@@ -1,15 +1,10 @@
 # Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## ArXiv Papers (Auto-updated)
+
+* [here](papers)
+
 ## Trending LLM Projects
-
-## Latest ArXiv Papers (Auto-updated)
-
-- [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242v1) - Shih-Yang Liu, Xin Dong, Ximing Lu et al.
-- [Measuring and Fostering Peace through Machine Learning and Artificial Intelligence](https://arxiv.org/abs/2601.05232v1) - P. Gilda, P. Dungarwal, A. Thongkham et al.
-- [Mechanisms of Prompt-Induced Hallucination in Vision-Language Models](https://arxiv.org/abs/2601.05201v1) - William Rudman, Michal Golovanevsky, Dana Arad et al.
-- [LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation](https://arxiv.org/abs/2601.05192v1) - Samy Haffoudhi, Fabian M. Suchanek, Nils Holzenberger
-- [Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop](https://arxiv.org/abs/2601.05184v1) - Yaxuan Wang, Zhongteng Cai, Yujia Bao et al.
-
 
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
