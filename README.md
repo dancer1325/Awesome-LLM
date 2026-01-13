@@ -6,6 +6,15 @@
 
 ## Trending LLM Projects
 
+## Latest ArXiv Papers (Auto-updated)
+
+- [Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests](https://arxiv.org/abs/2601.07820v1) - Manar Ali, Judith Sieker, Sina Zarrieß et al.
+- [The Confidence Trap: Gender Bias and Predictive Certainty in LLMs](https://arxiv.org/abs/2601.07806v1) - Ahmed Sabir, Markus Kängsepp, Rajesh Sharma
+- [Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues](https://arxiv.org/abs/2601.07796v1) - Shaz Furniturewala, Gerard Christopher Yeo, Kokil Jaidka
+- [Kinship Data Benchmark for Multi-hop Reasoning](https://arxiv.org/abs/2601.07794v1) - Tianda Sun, Dimitar Kazakov
+- [Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning](https://arxiv.org/abs/2601.07782v1) - Wei Fang, James Glass
+
+
 - [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - First-generation reasoning models from DeepSeek.
