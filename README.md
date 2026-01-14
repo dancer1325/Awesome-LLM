@@ -8,20 +8,12 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests](https://arxiv.org/abs/2601.07820v1) - Manar Ali, Judith Sieker, Sina Zarrieß et al.
-- [The Confidence Trap: Gender Bias and Predictive Certainty in LLMs](https://arxiv.org/abs/2601.07806v1) - Ahmed Sabir, Markus Kängsepp, Rajesh Sharma
-- [Learning Through Dialogue: Unpacking the Dynamics of Human-LLM Conversations on Political Issues](https://arxiv.org/abs/2601.07796v1) - Shaz Furniturewala, Gerard Christopher Yeo, Kokil Jaidka
-- [Kinship Data Benchmark for Multi-hop Reasoning](https://arxiv.org/abs/2601.07794v1) - Tianda Sun, Dimitar Kazakov
-- [Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning](https://arxiv.org/abs/2601.07782v1) - Wei Fang, James Glass
+- [Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](https://arxiv.org/abs/2601.08829v1) - Hsiang-Wei Huang, Junbin Lu, Kuang-Ming Chen et al.
+- [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/abs/2601.08808v1) - Yao Tang, Li Dong, Yaru Hao et al.
+- [APEX-SWE](https://arxiv.org/abs/2601.08806v1) - Abhi Kottamasu, Akul Datta, Aakash Barthwal et al.
+- [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](https://arxiv.org/abs/2601.08777v1) - Yang Cai, Weiqiang Zheng
+- [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v1) - Zhiyuan Hu, Yucheng Wang, Yufei He et al.
 
-
-- [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
-- [open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
-- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - First-generation reasoning models from DeepSeek.
-- [Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/) - Exploring the Intelligence of Large-scale MoE Model.
-- [OpenAI o3-mini](https://openai.com/index/openai-o3-mini/) - Pushing the frontier of cost-effective reasoning.
-- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - First open-sourced GPT-4o level model.
-- [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - MoE language model with 32B active and 1T total parameters.
 
 
 ## Table of Content
