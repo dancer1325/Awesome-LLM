@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](https://arxiv.org/abs/2601.08829v1) - Hsiang-Wei Huang, Junbin Lu, Kuang-Ming Chen et al.
-- [Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge](https://arxiv.org/abs/2601.08808v1) - Yao Tang, Li Dong, Yaru Hao et al.
-- [APEX-SWE](https://arxiv.org/abs/2601.08806v1) - Abhi Kottamasu, Akul Datta, Aakash Barthwal et al.
-- [Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling](https://arxiv.org/abs/2601.08777v1) - Yang Cai, Weiqiang Zheng
-- [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v1) - Zhiyuan Hu, Yucheng Wang, Yufei He et al.
+- [Value-Aware Numerical Representations for Transformer Language Models](https://arxiv.org/abs/2601.09706v1) - Andreea Dutulescu, Stefan Ruseti, Mihai Dascalu
+- [ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1) - Sicong Liu, Yanxian Huang, Mingwei Liu et al.
+- [Empathy Applicability Modeling for General Health Queries](https://arxiv.org/abs/2601.09696v1) - Shan Randhawa, Agha Ali Raza, Kentaro Toyama et al.
+- [LLMs can Compress LLMs: Adaptive Pruning by Agents](https://arxiv.org/abs/2601.09694v1) - Sai Varun Kodathala, Rakesh Vunnam
+- [Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection](https://arxiv.org/abs/2601.09692v1) - Tianyi Niu, Justin Chih-Yao Chen, Genta Indra Winata et al.
 
 
 
