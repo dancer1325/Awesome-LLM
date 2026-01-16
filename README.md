@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Value-Aware Numerical Representations for Transformer Language Models](https://arxiv.org/abs/2601.09706v1) - Andreea Dutulescu, Stefan Ruseti, Mihai Dascalu
-- [ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1) - Sicong Liu, Yanxian Huang, Mingwei Liu et al.
-- [Empathy Applicability Modeling for General Health Queries](https://arxiv.org/abs/2601.09696v1) - Shan Randhawa, Agha Ali Raza, Kentaro Toyama et al.
-- [LLMs can Compress LLMs: Adaptive Pruning by Agents](https://arxiv.org/abs/2601.09694v1) - Sai Varun Kodathala, Rakesh Vunnam
-- [Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection](https://arxiv.org/abs/2601.09692v1) - Tianyi Niu, Justin Chih-Yao Chen, Genta Indra Winata et al.
+- [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1) - Changle Qu, Sunhao Dai, Hengyi Cai et al.
+- [Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1) - Ruozhen Yang, Yucheng Jiang, Yueqi Jiang et al.
+- [LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](https://arxiv.org/abs/2601.10700v1) - Gilat Toker, Nitay Calderon, Ohad Amosy et al.
+- [Detecting Winning Arguments with Large Language Models and Persuasion Strategies](https://arxiv.org/abs/2601.10660v1) - Tiziano Labruna, Arkadiusz Modzelewski, Giorgio Satta et al.
+- [Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs](https://arxiv.org/abs/2601.10645v1) - Yuxi Xia, Loris Schoenegger, Benjamin Roth
 
 
 
