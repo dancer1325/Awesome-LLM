@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1) - Changle Qu, Sunhao Dai, Hengyi Cai et al.
-- [Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1) - Ruozhen Yang, Yucheng Jiang, Yueqi Jiang et al.
-- [LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](https://arxiv.org/abs/2601.10700v1) - Gilat Toker, Nitay Calderon, Ohad Amosy et al.
-- [Detecting Winning Arguments with Large Language Models and Persuasion Strategies](https://arxiv.org/abs/2601.10660v1) - Tiziano Labruna, Arkadiusz Modzelewski, Giorgio Satta et al.
-- [Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs](https://arxiv.org/abs/2601.10645v1) - Yuxi Xia, Loris Schoenegger, Benjamin Roth
+- [Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v1) - Yuming Yang, Mingyoung Lai, Wanxu Zhao et al.
+- [Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow](https://arxiv.org/abs/2601.14243v1) - Haocheng Xi, Charlie Ruan, Peiyuan Liao et al.
+- [APEX-Agents](https://arxiv.org/abs/2601.14242v1) - Bertie Vidgen, Austin Mann, Abby Fennelly et al.
+- [MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems](https://arxiv.org/abs/2601.14230v1) - Yiyang Wang, Yiqiao Jin, Alex Cabral et al.
+- [Generalization and Completeness of Stochastic Local Search Algorithms](https://arxiv.org/abs/2601.14212v1) - Daniel Loscos, Narciso Marti-Oliet, Ismael Rodriguez
 
 
 
