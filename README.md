@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v1) - Yuming Yang, Mingyoung Lai, Wanxu Zhao et al.
-- [Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow](https://arxiv.org/abs/2601.14243v1) - Haocheng Xi, Charlie Ruan, Peiyuan Liao et al.
-- [APEX-Agents](https://arxiv.org/abs/2601.14242v1) - Bertie Vidgen, Austin Mann, Abby Fennelly et al.
-- [MASCOT: Towards Multi-Agent Socio-Collaborative Companion Systems](https://arxiv.org/abs/2601.14230v1) - Yiyang Wang, Yiqiao Jin, Alex Cabral et al.
-- [Generalization and Completeness of Stochastic Local Search Algorithms](https://arxiv.org/abs/2601.14212v1) - Daniel Loscos, Narciso Marti-Oliet, Ismael Rodriguez
+- [LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1) - Daixuan Cheng, Shaohan Huang, Yuxian Gu et al.
+- [Automatic Classification of Arabic Literature into Historical Eras](https://arxiv.org/abs/2601.16138v1) - Zainab Alhathloul, Irfan Ahmad
+- [LLM Prompt Evaluation for Educational Applications](https://arxiv.org/abs/2601.16134v1) - Langdon Holmes, Adam Coscia, Scott Crossley et al.
+- [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/abs/2601.16127v1) - Alphaeus Dmonte, Vidhi Gupta, Daniel J Perry et al.
+- [Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1) - Tingyu Song, Yanzhao Zhang, Mingxin Li et al.
 
 
 
