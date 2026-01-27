@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1) - Daixuan Cheng, Shaohan Huang, Yuxian Gu et al.
-- [Automatic Classification of Arabic Literature into Historical Eras](https://arxiv.org/abs/2601.16138v1) - Zainab Alhathloul, Irfan Ahmad
-- [LLM Prompt Evaluation for Educational Applications](https://arxiv.org/abs/2601.16134v1) - Langdon Holmes, Adam Coscia, Scott Crossley et al.
-- [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/abs/2601.16127v1) - Alphaeus Dmonte, Vidhi Gupta, Daniel J Perry et al.
-- [Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1) - Tingyu Song, Yanzhao Zhang, Mingxin Li et al.
+- [ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](https://arxiv.org/abs/2601.18796v1) - Brian Ondov, Chia-Hsuan Chang, Yujia Zhou et al.
+- [Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v1) - Amrith Setlur, Zijian Wang, Andrew Cohen et al.
+- [MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data](https://arxiv.org/abs/2601.18792v1) - Brian Liu, Oiwi Parker Jones
+- [Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets](https://arxiv.org/abs/2601.18791v1) - Iaroslav Chelombitko, Mika Hämäläinen, Aleksey Komissarov
+- [MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1) - Etienne Lanzeray, Stephane Meilliez, Malo Ruelle et al.
 
 
 
