@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](https://arxiv.org/abs/2601.18796v1) - Brian Ondov, Chia-Hsuan Chang, Yujia Zhou et al.
-- [Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v1) - Amrith Setlur, Zijian Wang, Andrew Cohen et al.
-- [MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data](https://arxiv.org/abs/2601.18792v1) - Brian Liu, Oiwi Parker Jones
-- [Subword-Based Comparative Linguistics across 242 Languages Using Wikipedia Glottosets](https://arxiv.org/abs/2601.18791v1) - Iaroslav Chelombitko, Mika Hämäläinen, Aleksey Komissarov
-- [MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts](https://arxiv.org/abs/2601.18790v1) - Etienne Lanzeray, Stephane Meilliez, Malo Ruelle et al.
+- [Evaluation of Oncotimia: An LLM based system for supporting tumour boards](https://arxiv.org/abs/2601.19899v1) - Luis Lorenzo, Marcos Montana-Mendez, Sergio Figueiras et al.
+- [Post-LayerNorm Is Back: Stable, ExpressivE, and Deep](https://arxiv.org/abs/2601.19895v1) - Chen Chen, Lai Wei
+- [Reflective Translation: Improving Low-Resource Machine Translation via Structured Self-Reflection](https://arxiv.org/abs/2601.19871v1) - Nicholas Cheng
+- [Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering](https://arxiv.org/abs/2601.19847v1) - Fangan Dong, Zuming Yan, Xuri Ge et al.
+- [Neural Neural Scaling Laws](https://arxiv.org/abs/2601.19831v1) - Michael Y. Hu, Jane Pan, Ayush Rajesh Jhaveri et al.
 
 
 
