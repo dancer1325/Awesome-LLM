@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Evaluation of Oncotimia: An LLM based system for supporting tumour boards](https://arxiv.org/abs/2601.19899v1) - Luis Lorenzo, Marcos Montana-Mendez, Sergio Figueiras et al.
-- [Post-LayerNorm Is Back: Stable, ExpressivE, and Deep](https://arxiv.org/abs/2601.19895v1) - Chen Chen, Lai Wei
-- [Reflective Translation: Improving Low-Resource Machine Translation via Structured Self-Reflection](https://arxiv.org/abs/2601.19871v1) - Nicholas Cheng
-- [Identifying and Transferring Reasoning-Critical Neurons: Improving LLM Inference Reliability via Activation Steering](https://arxiv.org/abs/2601.19847v1) - Fangan Dong, Zuming Yan, Xuri Ge et al.
-- [Neural Neural Scaling Laws](https://arxiv.org/abs/2601.19831v1) - Michael Y. Hu, Jane Pan, Ayush Rajesh Jhaveri et al.
+- [Evolutionary Strategies lead to Catastrophic Forgetting in LLMs](https://arxiv.org/abs/2601.20861v1) - Immanuel Abdi, Akshat Gupta, Micah Mok et al.
+- [When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1) - David Tan, Pinzhen Chen, Josef van Genabith et al.
+- [Reward Models Inherit Value Biases from Pretraining](https://arxiv.org/abs/2601.20838v1) - Brian Christian, Jessica A. F. Thompson, Elle Michelle Yang et al.
+- [Linear representations in language models can change dramatically over a conversation](https://arxiv.org/abs/2601.20834v1) - Andrew Kyle Lampinen, Yuxuan Li, Eghbal Hosseini et al.
+- [Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning](https://arxiv.org/abs/2601.20829v1) - Minwu Kim, Safal Shrestha, Keith Ross
 
 
 
