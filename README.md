@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Evolutionary Strategies lead to Catastrophic Forgetting in LLMs](https://arxiv.org/abs/2601.20861v1) - Immanuel Abdi, Akshat Gupta, Micah Mok et al.
-- [When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1) - David Tan, Pinzhen Chen, Josef van Genabith et al.
-- [Reward Models Inherit Value Biases from Pretraining](https://arxiv.org/abs/2601.20838v1) - Brian Christian, Jessica A. F. Thompson, Elle Michelle Yang et al.
-- [Linear representations in language models can change dramatically over a conversation](https://arxiv.org/abs/2601.20834v1) - Andrew Kyle Lampinen, Yuxuan Li, Eghbal Hosseini et al.
-- [Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning](https://arxiv.org/abs/2601.20829v1) - Minwu Kim, Safal Shrestha, Keith Ross
+- [Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1) - Peter Chen, Xiaopeng Li, Xi Chen et al.
+- [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://arxiv.org/abs/2602.02488v1) - Yinjie Wang, Tianbao Xie, Ke Shen et al.
+- [RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents](https://arxiv.org/abs/2602.02486v1) - Jialiang Zhu, Gongrui Zhang, Xiaolong Ma et al.
+- [Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477v1) - Xiao Liang, Zhong-Zhi Li, Zhenghao Lin et al.
+- [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1) - Haozhen Zhang, Quanyu Long, Jianzhu Bao et al.
 
 
 
