@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1) - Peter Chen, Xiaopeng Li, Xi Chen et al.
-- [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](https://arxiv.org/abs/2602.02488v1) - Yinjie Wang, Tianbao Xie, Ke Shen et al.
-- [RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents](https://arxiv.org/abs/2602.02486v1) - Jialiang Zhu, Gongrui Zhang, Xiaolong Ma et al.
-- [Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477v1) - Xiao Liang, Zhong-Zhi Li, Zhenghao Lin et al.
-- [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1) - Haozhen Zhang, Quanyu Long, Jianzhu Bao et al.
+- [Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](https://arxiv.org/abs/2602.03845v1) - Tong Zheng, Chengsong Huang, Runpeng Dai et al.
+- [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://arxiv.org/abs/2602.03837v1) - David P. Woodruff, Vincent Cohen-Addad, Lalit Jain et al.
+- [AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://arxiv.org/abs/2602.03828v1) - Minjun Zhu, Zhen Lin, Yixuan Weng et al.
+- [They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References](https://arxiv.org/abs/2602.03822v1) - Sahil Tripathi, Gautam Siddharth Kashyap, Mehwish Nasim et al.
+- [Antidistillation Fingerprinting](https://arxiv.org/abs/2602.03812v1) - Yixuan Even Xu, John Kirchenbauer, Yash Savani et al.
 
 
 
