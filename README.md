@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](https://arxiv.org/abs/2602.03845v1) - Tong Zheng, Chengsong Huang, Runpeng Dai et al.
-- [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://arxiv.org/abs/2602.03837v1) - David P. Woodruff, Vincent Cohen-Addad, Lalit Jain et al.
-- [AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://arxiv.org/abs/2602.03828v1) - Minjun Zhu, Zhen Lin, Yixuan Weng et al.
-- [They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References](https://arxiv.org/abs/2602.03822v1) - Sahil Tripathi, Gautam Siddharth Kashyap, Mehwish Nasim et al.
-- [Antidistillation Fingerprinting](https://arxiv.org/abs/2602.03812v1) - Yixuan Even Xu, John Kirchenbauer, Yash Savani et al.
+- [Reinforced Attention Learning](https://arxiv.org/abs/2602.04884v1) - Bangzheng Li, Jianmo Ni, Chen Qu et al.
+- [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879v1) - Penghui Qi, Xiangxin Zhou, Zichen Liu et al.
+- [Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://arxiv.org/abs/2602.04863v1) - Ishaq Aden-Ali, Noah Golowich, Allen Liu et al.
+- [CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation](https://arxiv.org/abs/2602.04856v1) - Zhao Tong, Chunlin Gong, Yiping Zhang et al.
+- [Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"](https://arxiv.org/abs/2602.04853v1) - Dhruv Madhwal, Lyuxin David Zhang, Dan Roth et al.
 
 
 
