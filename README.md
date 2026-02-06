@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Reinforced Attention Learning](https://arxiv.org/abs/2602.04884v1) - Bangzheng Li, Jianmo Ni, Chen Qu et al.
-- [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879v1) - Penghui Qi, Xiangxin Zhou, Zichen Liu et al.
-- [Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://arxiv.org/abs/2602.04863v1) - Ishaq Aden-Ali, Noah Golowich, Allen Liu et al.
-- [CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation](https://arxiv.org/abs/2602.04856v1) - Zhao Tong, Chunlin Gong, Yiping Zhang et al.
-- [Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"](https://arxiv.org/abs/2602.04853v1) - Dhruv Madhwal, Lyuxin David Zhang, Dan Roth et al.
+- [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036v1) - Jian Chen, Yesheng Liang, Zhijian Liu
+- [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1) - Haozhen Zhang, Haodong Yue, Tao Feng et al.
+- [Multi-Token Prediction via Self-Distillation](https://arxiv.org/abs/2602.06019v1) - John Kirchenbauer, Abhimanyu Hans, Brian Bartoldson et al.
+- [A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies](https://arxiv.org/abs/2602.06015v1) - Panagiotis Kaliosis, Adithya V Ganesan, Oscar N. E. Kjell et al.
+- [Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods](https://arxiv.org/abs/2602.06000v1) - Ali Shendabadi, Parnia Izadirad, Mostafa Salehi et al.
 
 
 
