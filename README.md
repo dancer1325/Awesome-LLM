@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036v1) - Jian Chen, Yesheng Liang, Zhijian Liu
-- [Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1) - Haozhen Zhang, Haodong Yue, Tao Feng et al.
-- [Multi-Token Prediction via Self-Distillation](https://arxiv.org/abs/2602.06019v1) - John Kirchenbauer, Abhimanyu Hans, Brian Bartoldson et al.
-- [A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies](https://arxiv.org/abs/2602.06015v1) - Panagiotis Kaliosis, Adithya V Ganesan, Oscar N. E. Kjell et al.
-- [Speech Emotion Recognition Leveraging OpenAI's Whisper Representations and Attentive Pooling Methods](https://arxiv.org/abs/2602.06000v1) - Ali Shendabadi, Parnia Izadirad, Mostafa Salehi et al.
+- [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1) - Jiacheng Liu, Yaxin Luo, Jiacheng Cui et al.
+- [Data Science and Technology Towards AGI Part I: Tiered Data Management](https://arxiv.org/abs/2602.09003v1) - Yudong Wang, Zixuan Fu, Hengyu Zhao et al.
+- [Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs](https://arxiv.org/abs/2602.08997v1) - Lavender Y. Jiang, Xujin Chris Liu, Kyunghyun Cho et al.
+- [When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents](https://arxiv.org/abs/2602.08995v1) - Yuting Ning, Jaylen Jones, Zhehao Zhang et al.
+- [Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models](https://arxiv.org/abs/2602.08984v1) - Yuliang Liu, Yunchong Song, Yixuan Wang et al.
 
 
 
