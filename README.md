@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1) - Jiacheng Liu, Yaxin Luo, Jiacheng Cui et al.
-- [Data Science and Technology Towards AGI Part I: Tiered Data Management](https://arxiv.org/abs/2602.09003v1) - Yudong Wang, Zixuan Fu, Hengyu Zhao et al.
-- [Paradox of De-identification: A Critique of HIPAA Safe Harbour in the Age of LLMs](https://arxiv.org/abs/2602.08997v1) - Lavender Y. Jiang, Xujin Chris Liu, Kyunghyun Cho et al.
-- [When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents](https://arxiv.org/abs/2602.08995v1) - Yuting Ning, Jaylen Jones, Zhehao Zhang et al.
-- [Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models](https://arxiv.org/abs/2602.08984v1) - Yuliang Liu, Yunchong Song, Yixuan Wang et al.
+- [Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing](https://arxiv.org/abs/2602.10092v1) - Mohamed Afane, Kayla Laufer, Wenqi Wei et al.
+- [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v1) - Zhaoyang Wang, Canwen Xu, Boyi Liu et al.
+- [Anagent For Enhancing Scientific Table & Figure Analysis](https://arxiv.org/abs/2602.10081v1) - Xuehang Guo, Zhiyong Lu, Tom Hope et al.
+- [CAPID: Context-Aware PII Detection for Question-Answering Systems](https://arxiv.org/abs/2602.10074v1) - Mariia Ponomarenko, Sepideh Abedini, Masoumeh Shafieinejad et al.
+- [Overview of the TREC 2025 RAGTIME Track](https://arxiv.org/abs/2602.10024v1) - Dawn Lawrie, Sean MacAvaney, James Mayfield et al.
 
 
 
