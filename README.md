@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing](https://arxiv.org/abs/2602.10092v1) - Mohamed Afane, Kayla Laufer, Wenqi Wei et al.
-- [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v1) - Zhaoyang Wang, Canwen Xu, Boyi Liu et al.
-- [Anagent For Enhancing Scientific Table & Figure Analysis](https://arxiv.org/abs/2602.10081v1) - Xuehang Guo, Zhiyong Lu, Tom Hope et al.
-- [CAPID: Context-Aware PII Detection for Question-Answering Systems](https://arxiv.org/abs/2602.10074v1) - Mariia Ponomarenko, Sepideh Abedini, Masoumeh Shafieinejad et al.
-- [Overview of the TREC 2025 RAGTIME Track](https://arxiv.org/abs/2602.10024v1) - Dawn Lawrie, Sean MacAvaney, James Mayfield et al.
+- [Diffusion-Pretrained Dense and Contextual Embeddings](https://arxiv.org/abs/2602.11151v1) - Sedigheh Eslami, Maksim Gaiduk, Markus Krimmel et al.
+- [Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1) - Dawid J. Kopiczko, Sagar Vaze, Tijmen Blankevoort et al.
+- [Weight Decay Improves Language Model Plasticity](https://arxiv.org/abs/2602.11137v1) - Tessa Han, Sebastian Bordt, Hanlin Zhang et al.
+- [Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v1) - Zahar Kohut, Severyn Shykula, Dmytro Khamula et al.
+- [TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v1) - Géraud Faye, Wassila Ouerdane, Guillaume Gadek et al.
 
 
 
