@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Diffusion-Pretrained Dense and Contextual Embeddings](https://arxiv.org/abs/2602.11151v1) - Sedigheh Eslami, Maksim Gaiduk, Markus Krimmel et al.
-- [Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1) - Dawid J. Kopiczko, Sagar Vaze, Tijmen Blankevoort et al.
-- [Weight Decay Improves Language Model Plasticity](https://arxiv.org/abs/2602.11137v1) - Tessa Han, Sebastian Bordt, Hanlin Zhang et al.
-- [Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v1) - Zahar Kohut, Severyn Shykula, Dmytro Khamula et al.
-- [TEGRA: Text Encoding With Graph and Retrieval Augmentation for Misinformation Detection](https://arxiv.org/abs/2602.11106v1) - Géraud Faye, Wassila Ouerdane, Guillaume Gadek et al.
+- [Agentic Test-Time Scaling for WebAgents](https://arxiv.org/abs/2602.12276v1) - Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John et al.
+- [On-Policy Context Distillation for Language Models](https://arxiv.org/abs/2602.12275v1) - Tianzhu Ye, Li Dong, Xun Wu et al.
+- [T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1) - Tunyu Zhang, Xinxi Zhang, Ligong Han et al.
+- [A technical curriculum on language-oriented artificial intelligence in translation and specialised communication](https://arxiv.org/abs/2602.12251v1) - Ralph Krüger
+- ["Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most](https://arxiv.org/abs/2602.12249v1) - Kaitlyn Zhou, Martijn Bartelds, Federico Bianchi et al.
 
 
 
