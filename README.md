@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Agentic Test-Time Scaling for WebAgents](https://arxiv.org/abs/2602.12276v1) - Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John et al.
-- [On-Policy Context Distillation for Language Models](https://arxiv.org/abs/2602.12275v1) - Tianzhu Ye, Li Dong, Xun Wu et al.
-- [T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1) - Tunyu Zhang, Xinxi Zhang, Ligong Han et al.
-- [A technical curriculum on language-oriented artificial intelligence in translation and specialised communication](https://arxiv.org/abs/2602.12251v1) - Ralph Krüger
-- ["Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most](https://arxiv.org/abs/2602.12249v1) - Kaitlyn Zhou, Martijn Bartelds, Federico Bianchi et al.
+- [Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029v1) - Dhruva Karkada, Daniel J. Korchinski, Andres Nava et al.
+- [Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014v1) - Subham Sekhar Sahoo, Jean-Marie Lemercier, Zhihan Yang et al.
+- [Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1) - Ruoxi Liu, Philipp Koehn
+- [Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/abs/2602.15012v1) - Avinandan Bose, Shuyue Stella Li, Faeze Brahman et al.
+- [Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005v1) - Mengdan Zhu, Yufan Zhao, Tao Di et al.
 
 
 
