@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029v1) - Dhruva Karkada, Daniel J. Korchinski, Andres Nava et al.
-- [Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014v1) - Subham Sekhar Sahoo, Jean-Marie Lemercier, Zhihan Yang et al.
-- [Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1) - Ruoxi Liu, Philipp Koehn
-- [Cold-Start Personalization via Training-Free Priors from Structured World Models](https://arxiv.org/abs/2602.15012v1) - Avinandan Bose, Shuyue Stella Li, Faeze Brahman et al.
-- [Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005v1) - Mengdan Zhu, Yufan Zhao, Tao Di et al.
+- [Avey-B](https://arxiv.org/abs/2602.15814v1) - Devang Acharya, Mohammad Hammoud
+- [Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings](https://arxiv.org/abs/2602.15791v1) - Suhyung Jang, Ghang Lee, Jaekun Lee et al.
+- [*-PLUIE: Personalisable metric with Llm Used for Improved Evaluation](https://arxiv.org/abs/2602.15778v1) - Quentin Lemesle, Léane Jourdan, Daisy Munson et al.
+- [ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution](https://arxiv.org/abs/2602.15769v1) - Yahia Alqurnawi, Preetom Biswas, Anmol Rao et al.
+- [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763v1) - GLM-5 Team, :, Aohan Zeng et al.
 
 
 
