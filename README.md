@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Avey-B](https://arxiv.org/abs/2602.15814v1) - Devang Acharya, Mohammad Hammoud
-- [Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings](https://arxiv.org/abs/2602.15791v1) - Suhyung Jang, Ghang Lee, Jaekun Lee et al.
-- [*-PLUIE: Personalisable metric with Llm Used for Improved Evaluation](https://arxiv.org/abs/2602.15778v1) - Quentin Lemesle, Léane Jourdan, Daisy Munson et al.
-- [ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution](https://arxiv.org/abs/2602.15769v1) - Yahia Alqurnawi, Preetom Biswas, Anmol Rao et al.
-- [GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/abs/2602.15763v1) - GLM-5 Team, :, Aohan Zeng et al.
+- [Reinforced Fast Weights with Next-Sequence Prediction](https://arxiv.org/abs/2602.16704v1) - Hee Seung Hwang, Xindi Wu, Sanghyuk Chun et al.
+- [Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents](https://arxiv.org/abs/2602.16699v1) - Wenxuan Ding, Nicholas Tomlin, Greg Durrett
+- [Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens](https://arxiv.org/abs/2602.16687v1) - Potsawee Manakul, Woody Haosheng Gan, Martijn Bartelds et al.
+- [Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment](https://arxiv.org/abs/2602.16660v1) - Yuyan Bu, Xiaohao Liu, ZhaoXing Ren et al.
+- [Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval](https://arxiv.org/abs/2602.16640v1) - Subrit Dikshit
 
 
 
