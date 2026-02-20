@@ -8,11 +8,11 @@
 
 ## Latest ArXiv Papers (Auto-updated)
 
-- [Reinforced Fast Weights with Next-Sequence Prediction](https://arxiv.org/abs/2602.16704v1) - Hee Seung Hwang, Xindi Wu, Sanghyuk Chun et al.
-- [Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents](https://arxiv.org/abs/2602.16699v1) - Wenxuan Ding, Nicholas Tomlin, Greg Durrett
-- [Scaling Open Discrete Audio Foundation Models with Interleaved Semantic, Acoustic, and Text Tokens](https://arxiv.org/abs/2602.16687v1) - Potsawee Manakul, Woody Haosheng Gan, Martijn Bartelds et al.
-- [Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment](https://arxiv.org/abs/2602.16660v1) - Yuyan Bu, Xiaohao Liu, ZhaoXing Ren et al.
-- [Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval](https://arxiv.org/abs/2602.16640v1) - Subrit Dikshit
+- [Sink-Aware Pruning for Diffusion Language Models](https://arxiv.org/abs/2602.17664v1) - Aidar Myrzakhan, Tianyi Li, Bowei Guo et al.
+- [CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts](https://arxiv.org/abs/2602.17663v1) - Juri Opitz, Corina Raclé, Emanuela Boros et al.
+- [What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1) - Clara Meister, Ahmetcan Yavuz, Pietro Lesci et al.
+- [Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking](https://arxiv.org/abs/2602.17653v1) - Iskar Deng, Nathalia Xu, Shane Steinert-Threlkeld
+- [Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645v1) - Xiaohan Zhao, Zhaoyi Li, Yaxin Luo et al.
 
 
 
