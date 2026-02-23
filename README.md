@@ -1,42 +1,20 @@
-# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLM
 
 ## ArXiv Papers (Auto-updated)
 
-* [here](papers)
-
-## Trending LLM Projects
+* [here](papers/README.md)
 
 ## Latest ArXiv Papers (Auto-updated)
 
+* TODO:
 - [Sink-Aware Pruning for Diffusion Language Models](https://arxiv.org/abs/2602.17664v1) - Aidar Myrzakhan, Tianyi Li, Bowei Guo et al.
 - [CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts](https://arxiv.org/abs/2602.17663v1) - Juri Opitz, Corina Raclé, Emanuela Boros et al.
 - [What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1) - Clara Meister, Ahmetcan Yavuz, Pietro Lesci et al.
 - [Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking](https://arxiv.org/abs/2602.17653v1) - Iskar Deng, Nathalia Xu, Shane Steinert-Threlkeld
 - [Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645v1) - Xiaohan Zhao, Zhaoyi Li, Yaxin Luo et al.
 
-
-
-## Table of Content
-- [Awesome-LLM ](#awesome-llm-)
-  - [Milestone Papers](#milestone-papers)
-  - [Other Papers](#other-papers)
-  - [LLM Leaderboard](#llm-leaderboard)
-  - [Open LLM](#open-llm)
-  - [LLM Data](#llm-data)
-  - [LLM Evaluation](#llm-evaluation)
-  - [LLM Training Framework](#llm-training-frameworks)
-  - [LLM Inference](#llm-inference)
-  - [LLM Applications](#llm-applications)
-  - [LLM Tutorials and Courses](#llm-tutorials-and-courses)
-  - [LLM Books](#llm-books)
-  - [Great thoughts about LLM](#great-thoughts-about-llm)
-  - [Miscellaneous](#miscellaneous)
-
 ## Milestone Papers
 
-<details>
-
-<summary> milestone papers </summary>
   
 |   Date  |       keywords       |      Institute     |                                                                                                        Paper                                                                                                       |
 |:-------:|:--------------------:|:------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,11 +81,11 @@
 | 2024-12 |         DeepSeek-V3        |      DeepSeek     | [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1) |
 | 2025-01 |         DeepSeek-R1        |      DeepSeek     | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) |
 
-</details>
-
 ## Other Papers
 > [!NOTE]
-> If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art. However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole. For a detailed list of papers in various subfields, please refer to the following link:
+> If you're interested in the field of LLM, you may find the above list of milestone papers helpful to explore its history and state-of-the-art
+> However, each direction of LLM offers a unique set of insights and contributions, which are essential to understanding the field as a whole
+* For a detailed list of papers in various subfields, please refer to the following link:
 
 <details>
   <summary> other papers </summary>
@@ -140,7 +118,6 @@
 - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - A curated list of Awesome LLM Inference Paper with codes.
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - A curated list of Multi-modal Large Language Model in 3D world, including 3D understanding, reasoning, generation, and embodied agents.
 - [LLMDatahub](https://github.com/Zjh-819/LLMDataHub) - a curated collection of datasets specifically designed for chatbot training, including links, size, language, usage, and a brief description of each dataset
-- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
 - [LLM4Opt](https://github.com/FeiLiu36/LLM4Opt) - Applying Large language models (LLMs) for diverse optimization tasks (Opt) is an emerging research area. This is a collection of references and papers of LLM4Opt.
 
@@ -597,7 +574,6 @@
 
 ## Miscellaneous
 
-
 - [Emergent Mind](https://www.emergentmind.com) - The latest AI news, curated & explained by GPT-4.
 - [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
@@ -610,15 +586,3 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
-
-## Contributing
-
-This is an active repository and your contributions are always welcome!
-
-I will keep some pull requests open if I'm not sure if they are awesome for LLM, you could vote for them by adding 👍 to them.
-
----
-
-If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
-
-[^1]: This is not legal advice. Please contact the original authors of the models for more information.
